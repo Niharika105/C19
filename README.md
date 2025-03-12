@@ -1,5 +1,5 @@
 # C19
-String concentrate 
+String 
 #include <stdio.h>
 
 int main() 
